@@ -12,3 +12,4 @@ vendor/
 *.ntvs*
 *.njsproj
 *.sln
+.env
